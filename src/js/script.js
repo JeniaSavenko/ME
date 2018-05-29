@@ -152,7 +152,7 @@
       };
 
 
-      $('.pre-result').html('Ваш предыдущий рекорд '+ oldRecords.result + ' секунд');
+      /*$('.pre-result').html('Ваш предыдущий рекорд '+ oldRecords.result + ' секунд');*/
 
 
       if(records.result < oldRecords.result){
